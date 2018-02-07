@@ -259,3 +259,4 @@ paket-files/
 __pycache__/
 *.pyc
 AzR.AuditLog.Web/Log.txt
+.vs/MvcPortableArea/v15/.suo
