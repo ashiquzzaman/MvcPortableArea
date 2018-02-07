@@ -1,0 +1,9 @@
+D:\GITHUB\MvcPortableArea\Presentations\MvcPortableArea.Web\bin\Views\Department\Index.cshtml
+D:\GITHUB\MvcPortableArea\Presentations\MvcPortableArea.Web\bin\Views\Web.config
+D:\GITHUB\MvcPortableArea\Presentations\MvcPortableArea.Web\bin\Views\Employee\Index.cshtml
+D:\GITHUB\MvcPortableArea\Presentations\MvcPortableArea.Web\bin\MvcPortableArea.Web.Areas.HR.dll
+D:\GITHUB\MvcPortableArea\Presentations\MvcPortableArea.Web\bin\MvcPortableArea.Web.Areas.HR.pdb
+D:\GITHUB\MvcPortableArea\Areas\MvcPortableArea.Web.Areas.HR\obj\Debug\MvcPortableArea.Web.Areas.HR.csprojResolveAssemblyReference.cache
+D:\GITHUB\MvcPortableArea\Areas\MvcPortableArea.Web.Areas.HR\obj\Debug\MvcPortableArea.Web.Areas.HR.csproj.CoreCompileInputs.cache
+D:\GITHUB\MvcPortableArea\Areas\MvcPortableArea.Web.Areas.HR\obj\Debug\MvcPortableArea.Web.Areas.HR.dll
+D:\GITHUB\MvcPortableArea\Areas\MvcPortableArea.Web.Areas.HR\obj\Debug\MvcPortableArea.Web.Areas.HR.pdb

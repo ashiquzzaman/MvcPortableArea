@@ -1,0 +1,9 @@
+D:\GITHUB\MEFMVC\Presentations\AzR.Mef.Web\bin\Views\Department\Index.cshtml
+D:\GITHUB\MEFMVC\Presentations\AzR.Mef.Web\bin\Views\Web.config
+D:\GITHUB\MEFMVC\Presentations\AzR.Mef.Web\bin\Views\Employee\Index.cshtml
+D:\GITHUB\MEFMVC\Presentations\AzR.Mef.Web\bin\AzR.Plugin.HR.Web.dll
+D:\GITHUB\MEFMVC\Presentations\AzR.Mef.Web\bin\AzR.Plugin.HR.Web.pdb
+D:\GITHUB\MEFMVC\Plugins\AzR.Plugin.HR.Web\obj\Debug\AzR.Plugin.HR.Web.csprojResolveAssemblyReference.cache
+D:\GITHUB\MEFMVC\Plugins\AzR.Plugin.HR.Web\obj\Debug\AzR.Plugin.HR.Web.csproj.CoreCompileInputs.cache
+D:\GITHUB\MEFMVC\Plugins\AzR.Plugin.HR.Web\obj\Debug\AzR.Plugin.HR.Web.dll
+D:\GITHUB\MEFMVC\Plugins\AzR.Plugin.HR.Web\obj\Debug\AzR.Plugin.HR.Web.pdb

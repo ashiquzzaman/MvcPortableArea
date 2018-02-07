@@ -1,0 +1,26 @@
+﻿@model IEnumerable<AzR.Core.Models.Employee>
+    
+<table id="dataTable" class="table table-bordered table-hover">
+    <thead>
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.First().Id)</th>
+        <th>@Html.DisplayNameFor(model => model.First().Name)</th>
+        <th style="max-width: 100px">Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr class="dataItem">
+            <td>
+                @item.Id
+            </td>
+            <td>@item.Name</td>
+
+            <td>
+                <span class="btn btn-xs btn-primary btnEdit" id="edit_@item.Id" >Edit</span>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
